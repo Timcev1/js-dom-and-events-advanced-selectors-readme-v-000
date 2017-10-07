@@ -1,2 +1,4 @@
 // declare your functions here...
-$('.pics')
+function paragraphSelector(){
+  return document.body.getElementById("p")
+}
