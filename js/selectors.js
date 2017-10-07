@@ -10,3 +10,7 @@ function lastImageSelector(){
 function ninjaBabySelector(){
   return document.body.getElementById('.baby-ninja')
 }
+
+function divSelector(){
+  return $(.pics)
+}
